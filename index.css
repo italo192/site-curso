@@ -378,7 +378,8 @@ font-size: 2em;
     .card .detalhes .chão a
     {
         display: inline-flex;
-        padding: 8px 10px;
+        padding: 2px 10px;
+        border-radius: 20px;
         background: #fff; 
         text-decoration: none;
         text-transform: uppercase;
